@@ -2,7 +2,14 @@
 
 Hi There!
 
-MyGits contains list of the working files/functinalities/methods/Custom classes. The Goal is make it updato dates. Please below links for respected source.
+MyGits contains list of the Useful **files/functinalities/methods/Custom classes**. The Goal is make it upto dates. Please find below links for respected source.
+
+Enjoy!!
+
+If you find this post useful, please share and give star so others can find it 👏👏👏👏👏 !!!!
+
+You can follow me. Also, connect with me on [LinkedIn](https://www.linkedin.com/in/ileshpanchal).
+If you have any comment, question, or recommendation, feel free to [connect](https://www.linkedin.com/in/ileshpanchal) with me.
 
 ### Social
 - [x] [IPAppleSignIn](https://gist.github.com/Ilesh/7ad476d028c8e0e57bc0b424fd33baef)
