@@ -5,7 +5,7 @@ Hi There!
 MyGits contains list of the working files/functinalities/methods/Custom classes. The Goal is make it updato dates. Please below links for respected source.
 
 ### Social
-- [ ] [IPAppleSignIn]()
+- [x] [IPAppleSignIn](https://gist.github.com/Ilesh/7ad476d028c8e0e57bc0b424fd33baef)
 - [x] [IPGoogleLogin](https://gist.github.com/Ilesh/7bddca40a4493e69689d436990e0d173)
 - [x] [IPFacebookLogin](https://gist.github.com/Ilesh/53e78ba7c5d2aa61ca960bffea5a359f)
 
